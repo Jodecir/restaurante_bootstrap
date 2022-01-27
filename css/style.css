@@ -1,0 +1,16 @@
+html,
+body {
+  overflow-x: hidden; /* Prevent scroll on narrow devices */
+}
+
+.container {
+  max-width: 960px;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
