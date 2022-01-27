@@ -22,17 +22,94 @@
       <nav class="d-flex justify-content-center py-3 bg-dark text-white">
         <ul class="nav nav-pills">
           <li class="nav-item">
-            <a href="index.html" class="nav-link active bg-success" aria-current="page">Home</a>
+            <a href="index.html" class="nav-link active bg-primary" aria-current="page">Home</a>
           </li>
           <li class="nav-item">
-            <a href="feedback.html" class="nav-link">Cardápio</a>
+            <a href="cardapio.html" class="nav-link">Cardápio</a>
           </li>
           <li class="nav-item">
-            <a href="cardapio.html" class="nav-link">Fale Conosco</a>
+            <a href="feedback.html" class="nav-link">Fale Conosco</a>
           </li>
         </ul>
       </nav>
     </header>
+    <main>
+      <div class="container d-flex py-5">
+        <div class="container fluid">
+          <h4 class="mb-3">Fale Conosco</h4>
+          <hr class="my-2">
+          <h5 class="mb-3">Sua opinião é muito importante para nós.</h5>
+          <form class="needs-validation" novalidate>
+            <div class="row g-3">
+              <div class="col-sm-6">
+                <label for="firstName" class="form-label">Nome</label>
+                <input type="text" class="form-control" id="firstName" placeholder="" value="" required>
+                <div class="invalid-feedback">
+                  Nome valido
+                </div>
+              </div>
+              
+              <div class="col-sm-6">
+                <label for="lastName" class="form-label">Sobrenome</label>
+                <input type="text" class="form-control" id="lastName" placeholder="" value="" required>
+                <div class="invalid-feedback">
+                  Sobrenome valido
+                </div>
+              </div>
+  
+              <div class="col-6">
+                <label for="email" class="form-label">Email</label>
+                <input type="email" class="form-control" id="email" placeholder="you@example.com" required>
+                <div class="invalid-feedback">
+                  Por favor, insira um email valido.
+                </div>
+              </div>
+
+              <div class="col-6">
+                <label for="telefone" class="form-label">Telefone</label>
+                <input type="telefone" class="form-control" id="email" placeholder="(00) 90909-0909" required>
+                <div class="invalid-feedback">
+                  Por favor, insira um telefone valido.
+                </div>
+              </div>
+  
+              <div class="col-6">
+                <label for="address" class="form-label">Endereço<span class="text-muted"> (Opcional)</span></label>
+                <input type="text" class="form-control" id="address" placeholder="Rua 1234">
+                <div class="invalid-feedback">
+                  Por favor, insira um endereço valido.
+                </div>
+              </div>
+  
+              <div class="col-md-6">
+                <label for="state" class="form-label">Estado</label>
+                <select class="form-select" id="state" required>
+                  <option value="">Escolha...</option>
+                  <option>Rio de Janeiro</option>
+                  <option>São Paulo</option>
+                  <option>Espírito Santo</option>
+                </select>
+                <div class="invalid-feedback">
+                  Please provide a valid state.
+                </div>
+              </div>
+
+              <div class="col-md-12">
+                <label for="state" class="form-label">Feedback</label>
+                <textarea class="form-control" id="state" required></textarea>
+                <div class="invalid-feedback">
+                  Please provide a valid state.
+                </div>
+              </div>
+            </div>
+  
+            <hr class="my-4">
+  
+            <button class="w-100 btn btn-primary btn-lg" type="submit">Enviar Feedback</button>
+          </form>
+        </div>   
+      </div>
+    </main>
   </body>
   <script src="js/bootstrap.js"></script>
   <script src="js/bootstrap.min.js"></script>
