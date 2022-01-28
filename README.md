@@ -19,3 +19,9 @@ O Repositório é a recriação de uma das minhas avaliações em Desenvolviment
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jodecir/)](https://www.linkedin.com/in/jodecir/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jodecirneto@gmail.com)](mailto:jodecirneto@gmail.com)
+
+#### Créditos:
+
+Photo by <a href="https://unsplash.com/@kanamajina?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Zaji Kanamajina</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@oscnord?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Oscar Nord</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@joehan330?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joe Han</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
