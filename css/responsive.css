@@ -1,0 +1,12 @@
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+@media (max-width: 991.98px) {  
+  .carousel-item {
+    height: 300px;
+  }
+}
